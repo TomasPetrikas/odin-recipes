@@ -1,0 +1,53 @@
+* {
+    background-color: wheat;
+    font-family: Helvetica, sans-serif;
+}
+
+h1,h2 {
+    text-align: center;
+    background-color: tan;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h3 {
+    text-align: left;
+}
+
+.table-of-contents li {
+    text-align: left;
+    font-size: larger;
+    margin-left: 44%;
+}
+
+.button {
+    text-align: center;
+}
+
+button {
+    font-size: 18px;
+    background-color: lawngreen;
+}
+
+button a {
+    background-color: lawngreen;
+    color: black;
+}
+
+.image {
+    text-align: center;
+}
+
+h3,
+.nutrition,
+.description,
+.ingredients,
+.steps {
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.steps li {
+    margin-bottom: 10px;
+}
