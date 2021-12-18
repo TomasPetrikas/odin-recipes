@@ -38,6 +38,11 @@ button a {
     text-align: center;
 }
 
+img {
+    width: 500px;
+    max-width: 100%;
+}
+
 h3,
 .nutrition,
 .description,
